@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="BashSupport" />
+    <plugin id="Coverage" />
+    <plugin id="Docker" />
+    <plugin id="Git4Idea" />
+    <plugin id="HtmlTools" />
+    <plugin id="JSIntentionPowerPack" />
+    <plugin id="JavaScript" />
+    <plugin id="JavaScriptDebugger" />
+    <plugin id="NodeJS" />
+    <plugin id="PHPUnit code coverage" />
+    <plugin id="PlantUML integration" />
+    <plugin id="W3Validators" />
+    <plugin id="XPathView" />
+    <plugin id="XSLT-Debugger" />
+    <plugin id="com.intellij.CloudConfig" />
+    <plugin id="com.intellij.css" />
+    <plugin id="com.intellij.diagram" />
+    <plugin id="com.jetbrains.php" />
+    <plugin id="com.jetbrains.php.behat" />
+    <plugin id="com.jetbrains.php.blade" />
+    <plugin id="com.jetbrains.php.phpspec" />
+    <plugin id="com.jetbrains.twig" />
+    <plugin id="de.docksnet.puml.syntaxchecker" />
+    <plugin id="gherkin" />
+    <plugin id="org.editorconfig.editorconfigjetbrains" />
+    <plugin id="org.intellij.plugins.markdown" />
+    <plugin id="org.jetbrains.plugins.vue" />
+    <plugin id="org.jetbrains.plugins.yaml" />
+    <plugin id="org.jetbrains.settingsRepository" />
+  </component>
+</project>
