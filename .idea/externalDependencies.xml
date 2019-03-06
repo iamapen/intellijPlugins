@@ -22,6 +22,7 @@
     <plugin id="com.jetbrains.php.behat" />
     <plugin id="com.jetbrains.php.blade" />
     <plugin id="com.jetbrains.php.phpspec" />
+    <plugin id="com.jetbrains.restClient" />
     <plugin id="com.jetbrains.twig" />
     <plugin id="de.docksnet.puml.syntaxchecker" />
     <plugin id="gherkin" />
