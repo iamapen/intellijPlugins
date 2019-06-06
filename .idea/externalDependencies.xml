@@ -10,7 +10,6 @@
     <plugin id="JavaScript" />
     <plugin id="JavaScriptDebugger" />
     <plugin id="NodeJS" />
-    <plugin id="PHPUnit code coverage" />
     <plugin id="PlantUML integration" />
     <plugin id="W3Validators" />
     <plugin id="XPathView" />
